@@ -1,6 +1,6 @@
 {
-    "name": "fgrosse/phpasn1",
-    "description": "A PHP Framework that allows you to encode and decode arbitrary ASN.1 structures using the ITU-T X.690 Encoding Rules.",
+    "name": "goodid/goodid-phpasn1-php55",
+    "description": "A PHP Framework that allows you to encode and decode arbitrary ASN.1 structures using the ITU-T X.690 Encoding Rules. Mirrored from fgrosse/phpasn1",
     "type": "library",
     "homepage": "https://github.com/FGrosse/PHPASN1",
     "license": "MIT",
@@ -35,12 +35,6 @@
     "autoload-dev": {
         "psr-4": {
             "FG\\Test\\": "tests/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.5.x-dev",
-            "dev-compat/php5-5": "1.5.x-dev"
         }
     }
 }
